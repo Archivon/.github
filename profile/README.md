@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="../image/Archivon.png" alt="Archivon" width="100%">
+</div>
+
 # Archivon
 
 Archivon is a technology-driven organization focused on building structured, long-term digital projects. We create software, platforms, applications, documentation, and educational content designed to evolve over time, guided by clarity, consistency, and purpose.
